@@ -3,7 +3,9 @@
 
 My contribution:-
   -Applying different combination of algorithms on the two datasets.
+  
   -Tuning the hyperparameters of the model 
+  
   -Applying Ensemble method
   
 References:
